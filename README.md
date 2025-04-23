@@ -14,4 +14,4 @@ This repo has a bunch of Bash scripts I built while learning DevOps.
 8. `case_menu.sh` — A menu-based script using `case` statements for multi-option selection.
 9. `file_ops.sh` — Accepts a filename and allows adding text to it using standard input.
 
-These scripts were all written and tested on an EC2 instance running Amazon Linux 2023, then transferred to my Mac and pushed to GitHub for version control. Missions completed so far: 1 through 6. 
+These scripts were all written and tested on an EC2 instance running Amazon Linux 2023, then transferred to my Mac and pushed to GitHub for version control. This repo includes missions 4 through 6. 
